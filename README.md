@@ -1,4 +1,8 @@
 ### Hi there 👋
+<div class ="github-action" align="center" style="display: inline_block">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=michellemello&show_icons=true&theme=radical">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellemello&layout=donut&theme=radical">
+</div>
 
 <!--
 **nnthienphuc/nnthienphuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

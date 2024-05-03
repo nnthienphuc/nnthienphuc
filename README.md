@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div class ="github-action" align="center" style="display: inline_block">
+<div class ="github-repo" align="center" style="display: inline_block">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nnthienphuc&show_icons=true&theme=radical">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnthienphuc&layout=donut&theme=radical">
 </div>

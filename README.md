@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div class ="github-repo" align="center" style="display: inline_block">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nnthienphuc&theme=dracula&show_icons=true&hide_border=false&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnthienphuc&theme=dracula&show_icons=true&hide_border=false&layout=compact">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=nnthienphuc&theme=dracula&show_icons=true&hide_border=false&count_private=true">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnthienphuc&theme=dracula&show_icons=true&hide_border=false&layout=compact">
 </div>
 
 <!--

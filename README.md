@@ -1,5 +1,5 @@
 <div class="personal">
-  <h1>Hi, I'm Thien Phuc a Back-end Developer</h3>
+  <h1>Hi, I'm Thien Phuc, a Back-end Developer</h3>
   <p>Driven by a desire to enhance user experiences and solve real-world problems, I constantly strive to stay updated with the latest industry trends and advancements. I am adept at collaborating within multidisciplinary teams, effectively communicating technical concepts, and adapting to evolving project requirements. My analytical mindset, attention to detail, and commitment to delivering high-quality work enable me to excel in fast-paced environments.</p>
 </div>
 <div class ="github-repo" align="center" style="display: inline_block">

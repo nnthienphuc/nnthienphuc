@@ -16,6 +16,8 @@ Website: <a href="https://www.nnthienphuc.tech/">https://www.nnthienphuc.tech/</
 <br>
 LinkedIn: <a href="https://www.linkedin.com/in/nnthienphuc/">https://www.linkedin.com/in/nnthienphuc/</a>
 <br>
+Instagram: <a href="https://www.instagram.com/nnthienphuc/">https://www.instagram.com/nnthienphuc/</a>
+<br>
 <a href="mailto:nnthienphuc@gmail.com">Send an Email</a>
 </p>
 

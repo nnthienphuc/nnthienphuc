@@ -14,6 +14,8 @@ Contact for work:
 <br>
 Website: <a href="https://www.nnthienphuc.tech/">https://www.nnthienphuc.tech/</a>
 <br>
+LinkedIn: <a href="https://www.linkedin.com/in/nnthienphuc/">https://www.linkedin.com/in/nnthienphuc/</a>
+<br>
 <a href="mailto:nnthienphuc@gmail.com">Send an Email</a>
 </p>
 

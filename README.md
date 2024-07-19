@@ -1,6 +1,7 @@
 <div class="personal">
 <h1>Hi guys, I'm Nguyen Ngoc Thien Phuc, a Back-end Developer</h1>
-<p>As a junior at the Post and Telecommunication Institute of Technology (PTIT) pursuing a major in Information Technology specializing in Software Development, I am eager to leverage my skills and knowledge to contribute to a dynamic organization in a part-time or internship capacity.<br>
+<p>As a junior at the Post and Telecommunication Institute of Technology (PTIT) pursuing a major in Information Technology specializing in Software Development, I am eager to leverage my skills and knowledge to contribute to a dynamic organization in a part-time or internship capacity.
+<br>
 With a strong passion for technology and its applications, I have cultivated a solid foundation in software development and programming languages. Through my coursework and practical projects, I gained hands-on experience designing and implementing innovative solutions, utilizing industry-standard tools and frameworks.
 <br>
 Driven by a desire to enhance user experiences and solve real-world problems, I constantly strive to stay updated with the latest industry trends and advancements. I am adept at collaborating within multidisciplinary teams, effectively communicating technical concepts, and adapting to evolving project requirements. My analytical mindset, attention to detail, and commitment to delivering high-quality work enable me to excel in fast-paced environments.

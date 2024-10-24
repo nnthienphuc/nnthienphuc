@@ -12,7 +12,7 @@ If you believe my skills align with your organization's goals, I welcome the cha
 <br>
 Contact for work:
 <br>
-Website: <a href="https://www.nnthienphuc.tech/">https://www.nnthienphuc.tech/</a>
+Personal Portfolio Website: <a href="https://www.nnthienphuc.tech/">https://www.nnthienphuc.tech/</a>
 <br>
 LinkedIn: <a href="https://www.linkedin.com/in/nnthienphuc/">https://www.linkedin.com/in/nnthienphuc/</a>
 <br>

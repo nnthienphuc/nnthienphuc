@@ -1,43 +1,46 @@
-<div class="personal">
-<h1>Hi guys, I'm Nguyen Ngoc Thien Phuc, a Back-end Developer</h1>
-<p>As a senior at the <a href="https://portal.ptit.edu.vn" target = "_blank">Post and Telecommunication Institute of Technology (PTIT)</a> pursuing a major in Information Technology specializing in Software Development, I am eager to leverage my skills and knowledge to contribute to a dynamic organization in a part-time or internship capacity.
-<br>
-With a strong passion for technology and its applications, I have cultivated a solid foundation in software development and programming languages. Through my coursework and practical projects, I gained hands-on experience designing and implementing innovative solutions, utilizing industry-standard tools and frameworks.
-<br>
-Driven by a desire to enhance user experiences and solve real-world problems, I constantly strive to stay updated with the latest industry trends and advancements. I am adept at collaborating within multidisciplinary teams, effectively communicating technical concepts, and adapting to evolving project requirements. My analytical mindset, attention to detail, and commitment to delivering high-quality work enable me to excel in fast-paced environments.
-<br>
-Seeking a part-time or internship position, I am excited to contribute my technical skills, creativity, and strong work ethic to a forward-thinking organization. I am open to new challenges and opportunities that will allow me to grow personally and professionally while making a meaningful impact.
-<br>
-If you believe my skills align with your organization's goals, I welcome the chance to discuss how I can contribute to your team. Feel free to contact me for further discussion or to explore potential collaborations.
-<br>
-Contact for work:
-<br>
-Personal Portfolio Website: <a href="https://www.nnthienphuc.tech/" target = "_blank">https://www.nnthienphuc.tech/</a>
-<br>
-LinkedIn: <a href="https://www.linkedin.com/in/nnthienphuc/" target = "_blank">https://www.linkedin.com/in/nnthienphuc/</a>
-<br>
-Instagram: <a href="https://www.instagram.com/nnthienphuc/" target = "_blank">https://www.instagram.com/nnthienphuc/</a>
-<br>
-<a href="mailto:nnthienphuc@gmail.com">Send an Email</a>
-</p>
+# 👋 Hi there, I'm Nguyen Ngoc Thien Phuc
 
-</div>
-<div class ="github-repo" align="center" style="display: inline_block">
+### 🌟 Back-End Developer | Aspiring Spring Boot Specialist
+
+I am a senior student at the [Post and Telecommunication Institute of Technology (PTIT)](https://portal.ptit.edu.vn), pursuing a degree in Information Technology with a specialization in Software Development. My passion lies in building robust and scalable backend solutions using **Spring Boot** and modern technologies.
+
+---
+
+### 🚀 About Me
+- 🎓 **Education**: Currently in my 4th year at PTIT, majoring in Software Development.
+- 💻 **Technical Skills**: Proficient in Java, Spring Boot, RESTful APIs, and database management.
+- 🔍 **Interests**: Backend development, system architecture, and solving real-world challenges through technology.
+- 📚 **Continuous Learner**: Staying updated with the latest industry trends and tools.
+
+### 💡 What I Bring to the Table
+- **Strong Foundation**: Solid understanding of software development principles and backend frameworks.
+- **Practical Experience**: Hands-on experience designing and implementing innovative solutions through academic projects.
+- **Team Collaboration**: Skilled at working within multidisciplinary teams, adapting to changing requirements, and effectively communicating technical concepts.
+- **Problem-Solving Mindset**: Passionate about creating impactful solutions and enhancing user experiences.
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=nnthienphuc&theme=dracula&show_icons=true&hide_border=false&count_private=true">
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnthienphuc&theme=dracula&show_icons=true&hide_border=false&layout=compact">
 </div>
 
-<!--
-**nnthienphuc/nnthienphuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 Let's Connect
+- 🌍 **Personal Portfolio**: [nnthienphuc.tech](https://www.nnthienphuc.tech/)
+- 💼 **LinkedIn**: [linkedin.com/in/nnthienphuc/](https://www.linkedin.com/in/nnthienphuc/)
+- 📸 **Instagram**: [instagram.com/nnthienphuc/](https://www.instagram.com/nnthienphuc/)
+- 📧 **Email**: [nnthienphuc@gmail.com](mailto:nnthienphuc@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ Fun Facts
+- 🌱 Currently learning advanced Spring Boot concepts and microservices architecture.
+- 🔭 Looking for exciting opportunities in backend development (internships or part-time roles).
+- 🎯 Open to collaborations and new challenges to grow personally and professionally.
+
+---
+
+Feel free to reach out if you're interested in my work or have any opportunities for collaboration! 🚀

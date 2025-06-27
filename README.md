@@ -50,7 +50,6 @@ Received strong feedback for clean code style, documentation, and fast adaptatio
 ---
 
 ### ✨ Fun Facts
-- 🌱 Currently learning advanced concepts in **Spring Boot Microservices** and **ASP.NET Identity + Middleware**.
 - 🔭 Looking for opportunities in backend development (internships, part-time, or junior roles).
 - 🎯 Open to collaboration on backend projects, developer tools, or API-centric systems.
 

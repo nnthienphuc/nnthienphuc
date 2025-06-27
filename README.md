@@ -12,9 +12,28 @@ I am a senior student at the [Post and Telecommunication Institute of Technology
 - 🔍 **Interests**: Backend development, system architecture, and solving real-world challenges through technology.
 - 📚 **Continuous Learner**: Staying updated with the latest industry trends and tools.
 
+---
+
+### 💼 Work Experience
+
+#### 🔹 **ASP.NET Back-end Intern — CFOX TECH COMPANY LIMITED**  
+📍 *On-site (mostly), occasional Hybrid — Vietnam* | 🗓 *2025 (Present)*  
+Currently interning at [CFOX](https://cfox.vn/), I work closely with senior engineers to build scalable APIs and enterprise-level backend features using **ASP.NET Core**.  
+Key contributions include:
+- Developed secure and RESTful APIs with layered architecture (Controller – Service – Repository).
+- Integrated JWT Authentication and Role-Based Authorization for staff workflows.
+- Designed and normalized SQL Server database schema in 3NF for high maintainability.
+- Implemented features like Email Verification, Password Reset, and soft deletion logic.
+- Collaborated on internal bookstore management system — covering books, orders, promotions, and staff roles.
+- Practiced Agile development, participated in daily stand-ups, and used Git for version control.
+
+Received strong feedback for clean code style, documentation, and fast adaptation to production-level coding standards.
+
+---
+
 ### 💡 What I Bring to the Table
 - **Strong Foundation**: Solid understanding of software development principles and backend frameworks.
-- **Practical Experience**: Hands-on experience designing and implementing innovative solutions through academic projects.
+- **Practical Experience**: Hands-on experience designing and implementing innovative solutions through academic projects and real-world internships.
 - **Team Collaboration**: Skilled at working within multidisciplinary teams, adapting to changing requirements, and effectively communicating technical concepts.
 - **Problem-Solving Mindset**: Passionate about creating impactful solutions and enhancing user experiences.
 

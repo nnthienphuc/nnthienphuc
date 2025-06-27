@@ -1,16 +1,18 @@
 # 👋 Hi there, I'm Nguyen Ngoc Thien Phuc
 
-### 🌟 Back-End Developer | Aspiring Spring Boot Specialist
+### 🌟 Back-End Developer | Spring Boot & ASP.NET Core Enthusiast
 
-I am a senior student at the [Post and Telecommunication Institute of Technology (PTIT)](https://portal.ptit.edu.vn), pursuing a degree in Information Technology with a specialization in Software Development. My passion lies in building robust and scalable backend solutions using **Spring Boot** and modern technologies.
+I am a senior student at the [Post and Telecommunication Institute of Technology (PTIT)](https://portal.ptit.edu.vn), pursuing a degree in Information Technology with a specialization in Software Development. My passion lies in building robust and scalable backend solutions using **Spring Boot**, **ASP.NET Core**, and modern backend technologies.
 
 ---
 
 ### 🚀 About Me
 - 🎓 **Education**: Currently in my 4th year at PTIT, majoring in Software Development.
-- 💻 **Technical Skills**: Proficient in Java, Spring Boot, RESTful APIs, and database management.
-- 🔍 **Interests**: Backend development, system architecture, and solving real-world challenges through technology.
-- 📚 **Continuous Learner**: Staying updated with the latest industry trends and tools.
+- 💻 **Technical Skills**:  
+  Proficient in **Java**, **Spring Boot**, **C#**, **ASP.NET Core**, RESTful APIs, SQL Server, and PostgreSQL.  
+  Familiar with clean architecture, JWT, role-based authorization, and layered service design.
+- 🔍 **Interests**: Backend development, enterprise system architecture, and solving real-world business problems through code.
+- 📚 **Continuous Learner**: Currently deepening my skills in both Java and C# ecosystems to become a versatile back-end developer.
 
 ---
 
@@ -18,17 +20,25 @@ I am a senior student at the [Post and Telecommunication Institute of Technology
 
 #### 🔹 **ASP.NET Back-end Intern — CFOX TECH COMPANY LIMITED**  
 📍 *On-site (mostly), occasional Hybrid — Vietnam* | 🗓 *2025 (Present)*  
-Currently interning at [CFOX](https://cfox.vn/), I work closely with senior engineers to build scalable APIs and enterprise-level backend features using **ASP.NET Core**.
+Currently interning at [CFOX](https://cfox.vn/), I work closely with senior engineers to build scalable APIs and enterprise-level backend features using **ASP.NET Core**.  
+Key contributions include:
+- Developed secure and RESTful APIs with layered architecture (Controller – Service – Repository).
+- Integrated JWT Authentication and Role-Based Authorization for staff workflows.
+- Designed and normalized SQL Server database schema in 3NF for high maintainability.
+- Implemented features like Email Verification, Password Reset, and soft deletion logic.
+- Collaborated on internal bookstore management system — covering books, orders, promotions, and staff roles.
+- Practiced Agile development, participated in daily stand-ups, and used Git for version control.
 
 Received strong feedback for clean code style, documentation, and fast adaptation to production-level coding standards.
 
 ---
 
 ### 💡 What I Bring to the Table
-- **Strong Foundation**: Solid understanding of software development principles and backend frameworks.
-- **Practical Experience**: Hands-on experience designing and implementing innovative solutions through academic projects and real-world internships.
+- **Full-Stack Back-End Skills**: Solid foundation in both **Java/Spring Boot** and **C#/ASP.NET Core** frameworks.
+- **Real-World Experience**: Practical development through both academic and corporate projects.
 - **Team Collaboration**: Skilled at working within multidisciplinary teams, adapting to changing requirements, and effectively communicating technical concepts.
-- **Problem-Solving Mindset**: Passionate about creating impactful solutions and enhancing user experiences.
+- **Clean Code & Architecture**: Passionate about scalable, maintainable systems with clear separation of concerns.
+- **Problem-Solving Mindset**: Eager to tackle challenges and contribute meaningful solutions in fast-paced environments.
 
 ---
 
@@ -49,9 +59,9 @@ Received strong feedback for clean code style, documentation, and fast adaptatio
 ---
 
 ### ✨ Fun Facts
-- 🌱 Currently learning advanced Spring Boot concepts and microservices architecture.
-- 🔭 Looking for exciting opportunities in backend development (internships or part-time roles).
-- 🎯 Open to collaborations and new challenges to grow personally and professionally.
+- 🌱 Currently learning advanced concepts in **Spring Boot Microservices** and **ASP.NET Identity + Middleware**.
+- 🔭 Looking for opportunities in backend development (internships, part-time, or junior roles).
+- 🎯 Open to collaboration on backend projects, developer tools, or API-centric systems.
 
 ---
 

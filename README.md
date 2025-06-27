@@ -8,7 +8,7 @@ I am a senior student at the [Post and Telecommunication Institute of Technology
 
 ### 🚀 About Me
 - 🎓 **Education**: Currently in my 4th year at PTIT, majoring in Software Development.
-- 💻 **Technical Skills**: Proficient in **Java**, **Spring Boot**, **C#**, **ASP.NET Core**, RESTful APIs, SQL Server, and PostgreSQL. Familiar with clean architecture, JWT, role-based authorization, and layered service design.
+- 💻 **Technical Skills**: Proficient in **Java**, **Spring Boot**, **C#**, **ASP.NET Core**, RESTful APIs, SQL Server, MySQL. Familiar with clean architecture, JWT, role-based authorization, and layered service design.
 - 🔍 **Interests**: Backend development, enterprise system architecture, and solving real-world business problems through code.
 - 📚 **Continuous Learner**: Currently deepening my skills in both Java and C# ecosystems to become a versatile back-end developer.
 

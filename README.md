@@ -18,14 +18,7 @@ I am a senior student at the [Post and Telecommunication Institute of Technology
 
 #### 🔹 **ASP.NET Back-end Intern — CFOX TECH COMPANY LIMITED**  
 📍 *On-site (mostly), occasional Hybrid — Vietnam* | 🗓 *2025 (Present)*  
-Currently interning at [CFOX](https://cfox.vn/), I work closely with senior engineers to build scalable APIs and enterprise-level backend features using **ASP.NET Core**.  
-Key contributions include:
-- Developed secure and RESTful APIs with layered architecture (Controller – Service – Repository).
-- Integrated JWT Authentication and Role-Based Authorization for staff workflows.
-- Designed and normalized SQL Server database schema in 3NF for high maintainability.
-- Implemented features like Email Verification, Password Reset, and soft deletion logic.
-- Collaborated on internal bookstore management system — covering books, orders, promotions, and staff roles.
-- Practiced Agile development, participated in daily stand-ups, and used Git for version control.
+Currently interning at [CFOX](https://cfox.vn/), I work closely with senior engineers to build scalable APIs and enterprise-level backend features using **ASP.NET Core**.
 
 Received strong feedback for clean code style, documentation, and fast adaptation to production-level coding standards.
 

@@ -18,7 +18,7 @@ I am a senior student at the [Post and Telecommunication Institute of Technology
 
 #### 🔹 **ASP.NET Back-end Intern — CFOX TECH COMPANY LIMITED**  
 📍 *On-site (mostly), occasional Hybrid — Vietnam* | 🗓 *2025 (Present)*  
-Currently interning at [CFOX](https://cfox.vn/), I work closely with senior engineers to build scalable APIs and enterprise-level backend features using **ASP.NET Core**.  
+Intenred at [S3WORK](https://cfox.vn/), I work closely with senior engineers to build scalable APIs and enterprise-level backend features using **ASP.NET Core**.  
 
 Received strong feedback for clean code style, documentation, and fast adaptation to production-level coding standards.
 

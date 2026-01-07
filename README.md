@@ -1,49 +1,55 @@
 # 👋 Hi there, I'm Nguyen Ngoc Thien Phuc
 
-### 🌟 Back-End Developer | Spring Boot & ASP.NET Core Enthusiast
+### 🌟 Junior Back-End Developer | ASP.NET Core & Spring Boot
 
-I am a senior student at the [Post and Telecommunication Institute of Technology (PTIT)](https://portal.ptit.edu.vn), pursuing a degree in Information Technology with a specialization in Software Development. My passion lies in building robust and scalable backend solutions using **Spring Boot**, **ASP.NET Core**, and modern backend technologies.
+I am a final-year student at the [Post and Telecommunication Institute of Technology (PTIT)](https://portal.ptit.edu.vn), majoring in Information Technology with a specialization in Software Development.  
+I focus on building **robust, scalable backend solutions** using **Spring Boot**, **ASP.NET Core**, and modern backend technologies.
 
 ---
 
 ### 🚀 About Me
-- 🎓 **Education**: Currently in my 4th year at PTIT, majoring in Software Development.
-- 💻 **Technical Skills**: Proficient in **Java**, **Spring Boot**, **C#**, **ASP.NET Core**, RESTful APIs, SQL Server, MySQL. Familiar with clean architecture, JWT, role-based authorization, and layered service design.
+- 🎓 **Education**: Final-year student at PTIT (Software Development).
+- 💻 **Technical Skills**: Proficient in **Java**, **Spring Boot**, **C#**, **ASP.NET Core**, RESTful APIs, **SQL Server**, **MySQL**.  
+  Hands-on experience with **clean architecture**, **JWT authentication**, **role-based authorization**, and **layered service design**.
 - 🔍 **Interests**: Backend development, enterprise system architecture, and solving real-world business problems through code.
-- 📚 **Continuous Learner**: Currently deepening my skills in both Java and C# ecosystems to become a versatile back-end developer.
+- 📚 **Continuous Learner**: Actively improving skills across both Java and C# ecosystems to grow as a well-rounded backend developer.
 
 ---
 
 ### 💼 Work Experience
 
-#### 🔹 **ASP.NET Back-end Intern — CFOX TECH COMPANY LIMITED**  
-📍 *On-site (mostly), occasional Hybrid — Vietnam* | 🗓 *2025 (Present)*  
-Intenred at [S3WORK](https://cfox.vn/), I work closely with senior engineers to build scalable APIs and enterprise-level backend features using **ASP.NET Core**.  
+#### 🔹 **ASP.NET Core Back-End Intern — CFOX TECH COMPANY LIMITED**  
+📍 *On-site (primarily), occasional Hybrid — Vietnam* | 🗓 *2025 – Present*  
 
-Received strong feedback for clean code style, documentation, and fast adaptation to production-level coding standards.
+Interned at [CFOX Tech](https://cfox.vn/), collaborating with senior engineers to build and maintain **enterprise-level backend services** using **ASP.NET Core**.
+
+**Highlights:**
+- Developed and maintained RESTful APIs following clean architecture principles
+- Worked with authentication, authorization, and database-driven features
+- Received strong feedback for **clean code**, **clear documentation**, and **fast adaptation to production standards**
 
 ---
 
 ### 💡 What I Bring to the Table
-- **Full-Stack Back-End Skills**: Solid foundation in both **Java/Spring Boot** and **C#/ASP.NET Core** frameworks.
-- **Real-World Experience**: Practical development through both academic and corporate projects.
-- **Team Collaboration**: Skilled at working within multidisciplinary teams, adapting to changing requirements, and effectively communicating technical concepts.
-- **Clean Code & Architecture**: Passionate about scalable, maintainable systems with clear separation of concerns.
-- **Problem-Solving Mindset**: Eager to tackle challenges and contribute meaningful solutions in fast-paced environments.
+- **Strong Back-End Skills**: Solid foundation in **Java/Spring Boot** and **C#/ASP.NET Core**
+- **Real-World Experience**: Practical exposure through academic and corporate projects
+- **Team Collaboration**: Comfortable working in team environments and communicating technical concepts clearly
+- **Clean Code & Architecture**: Focused on maintainable, scalable, and well-structured systems
+- **Problem-Solving Mindset**: Motivated to learn, improve, and deliver meaningful solutions
 
 ---
 
 ### 🌐 Let's Connect
-- 🌍 **Personal Portfolio**: [nnthienphuc.me](https://nnthienphuc.me/)
-- 💼 **LinkedIn**: [linkedin.com/in/nnthienphuc/](https://www.linkedin.com/in/nnthienphuc/)
+- 🌍 **Portfolio**: [https://nnthienphuc.me](https://nnthienphuc.me)
+- 💼 **LinkedIn**: [linkedin.com/in/nnthienphuc](https://www.linkedin.com/in/nnthienphuc/)
 - 📧 **Email**: [nnthienphuc@gmail.com](mailto:nnthienphuc@gmail.com)
 
 ---
 
-### ✨ Fun Facts
-- 🔭 Looking for opportunities in backend development (internships, part-time, or junior roles).
-- 🎯 Open to collaboration on backend projects, developer tools, or API-centric systems.
+### ✨ Career Objectives
+- 🔭 Actively seeking **full-time Junior Back-End Developer** opportunities
+- 🎯 Open to working on backend systems, APIs, and enterprise applications
 
 ---
 
-Feel free to reach out if you're interested in my work or have any opportunities for collaboration! 🚀
+Feel free to reach out if you'd like to connect or discuss potential opportunities. 🚀

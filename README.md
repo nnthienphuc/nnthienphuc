@@ -33,14 +33,6 @@ Received strong feedback for clean code style, documentation, and fast adaptatio
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=nnthienphuc&theme=dracula&show_icons=true&hide_border=false&count_private=true">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnthienphuc&theme=dracula&show_icons=true&hide_border=false&layout=compact">
-</div>
-
----
-
 ### 🌐 Let's Connect
 - 🌍 **Personal Portfolio**: [nnthienphuc.me](https://nnthienphuc.me/)
 - 💼 **LinkedIn**: [linkedin.com/in/nnthienphuc/](https://www.linkedin.com/in/nnthienphuc/)

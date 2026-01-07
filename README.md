@@ -36,7 +36,6 @@ Received strong feedback for clean code style, documentation, and fast adaptatio
 ### 🌐 Let's Connect
 - 🌍 **Personal Portfolio**: [nnthienphuc.me](https://nnthienphuc.me/)
 - 💼 **LinkedIn**: [linkedin.com/in/nnthienphuc/](https://www.linkedin.com/in/nnthienphuc/)
-- 📸 **Instagram**: [instagram.com/nnthienphuc/](https://www.instagram.com/nnthienphuc/)
 - 📧 **Email**: [nnthienphuc@gmail.com](mailto:nnthienphuc@gmail.com)
 
 ---

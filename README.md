@@ -19,7 +19,7 @@ I focus on building **robust, scalable backend solutions** using **Spring Boot**
 ### 💼 Work Experience
 
 #### 🔹 **ASP.NET Core Back-End Intern — S3WORK TECH COMPANY LIMITED**  
-📍 *On-site (primarily), occasional Hybrid — Vietnam* | 🗓 *March 2025 – September 2025*  
+📍 *On-site (primarily), occasional Hybrid — Vietnam* | 🗓 *March 2025 – August 2025*  
 
 Interned at [S3WORK  Tech](https://s3work.vn/), collaborating with senior engineers to build and maintain **enterprise-level backend services** using **ASP.NET Core**.
 

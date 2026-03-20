@@ -9,7 +9,7 @@ I focus on building **robust, scalable backend solutions** using **Spring Boot**
 
 ### 🚀 About Me
 - 🎓 **Education**: Final-year student at PTIT (Software Development).
-- 💻 **Technical Skills**: Proficient in **C#**, **ASP.NET Core**, **Java**, **Spring Boot**, RESTful APIs, **SQL Server**, **MySQL**.  
+- 💻 **Technical Skills**: Proficient in **C#**, **ASP.NET Core**, **Java**, **Spring Boot**, RESTful APIs, **SQL Server**, **MySQL**, **PostgreSQL**.  
   Hands-on experience with **clean architecture**, **JWT authentication**, **role-based authorization**, and **layered service design**.
 - 🔍 **Interests**: Backend development, enterprise system architecture, and solving real-world business problems through code.
 - 📚 **Continuous Learner**: Actively improving skills across both Java and C# ecosystems to grow as a well-rounded backend developer.

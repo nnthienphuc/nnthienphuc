@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nguyen Ngoc Thien Phuc
 
-**Software Engineer | Cloud-Native Systems | ASP.NET Core & React**
+**Software Engineer | ASP.NET Core & React | Cloud-Native Systems**
 
 I am a Software Engineer based in Ho Chi Minh City, specializing in building robust, scalable backend architectures and distributed systems. With a strong foundation from the [Post and Telecommunication Institute of Technology (PTIT)](https://portal.ptit.edu.vn) and real-world experience, I am passionate about transforming complex business logic into secure, high-performance digital solutions.
 
@@ -41,6 +41,7 @@ Currently, I focus on engineering comprehensive platforms handling strict data c
 ### 🔥 Featured Projects
 
 #### 📊 [Personal Portfolio Tracker V2 (Cloud-Native)](https://app.nnthienphuc.me)
+Visit my product: https://app.nnthienphuc.me
 A full-stack, distributed wealth management platform enabling users to monitor cash flow, credit, and investment portfolios (Stocks & Crypto) with near real-time, broker-standard PnL analytics.
 * **Tech:** ASP.NET Core, React, Azure SQL, Azure Blob Storage, Render, Vercel.
 * **Highlights:** Strict per-user data isolation, background price-fetching workers, JWT authentication, and secure email activation flows.
@@ -64,15 +65,14 @@ An intelligent library management platform modernizing borrowing workflows with 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nnthienphuc&show_icons=true&theme=radium&hide_border=true" alt="Thien Phuc's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnthienphuc&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  ![GitHub Stats Card](https://ghstats.dev/api/card?username=nnthienphuc&theme=radical)
 </div>
 
 ---
 
 ### 🌐 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-app.nnthienphuc.me-00ffee?style=for-the-badge&logo=Google-Chrome&logoColor=black)](https://app.nnthienphuc.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ffee?style=for-the-badge&logo=Google-Chrome&logoColor=black)](https://nnthienphuc.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nnthienphuc/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nnthienphuc@gmail.com)
 

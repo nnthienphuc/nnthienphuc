@@ -65,7 +65,7 @@ An intelligent library management platform modernizing borrowing workflows with 
 ### 📈 GitHub Stats
 
 <div align="center">
-  ![GitHub Stats Card](https://ghstats.dev/api/card?username=nnthienphuc&theme=radical)
+  <img src="https://ghstats.dev/api/card?username=nnthienphuc&theme=radical" alt="GitHub Stats Card" />
 </div>
 
 ---

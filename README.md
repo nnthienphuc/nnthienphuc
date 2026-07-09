@@ -41,8 +41,7 @@ Currently, I focus on engineering comprehensive platforms handling strict data c
 ### 🔥 Featured Projects
 
 #### 📊 [Personal Portfolio Tracker V2 (Cloud-Native)](https://app.nnthienphuc.me)
-
-
+<br>
 Visit my product: https://app.nnthienphuc.me
 A full-stack, distributed wealth management platform enabling users to monitor cash flow, credit, and investment portfolios (Stocks & Crypto) with near real-time, broker-standard PnL analytics.
 * **Tech:** ASP.NET Core, React, Azure SQL, Azure Blob Storage, Render, Vercel.

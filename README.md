@@ -64,14 +64,6 @@ An intelligent library management platform modernizing borrowing workflows with 
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://ghstats.dev/api/card?username=nnthienphuc&theme=radical" alt="GitHub Stats Card" />
-</div>
-
----
-
 ### 🌐 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ffee?style=for-the-badge&logo=Google-Chrome&logoColor=black)](https://nnthienphuc.me)

@@ -40,9 +40,9 @@ Currently, I focus on engineering comprehensive platforms handling strict data c
 
 ### 🔥 Featured Projects
 
-#### 📊 [Personal Portfolio Tracker V2 (Cloud-Native)](https://app.nnthienphuc.me)
+#### 📊 [Wealth Management Platform (Cloud-Native)](https://app.nnthienphuc.me)
 
-Experience the live platform: https://app.nnthienphuc.me
+Experience the live platform: [app.nnthienphuc.me](https://app.nnthienphuc.me)
 <br>
 A full-stack, distributed wealth management platform enabling users to monitor cash flow, credit, and investment portfolios (Stocks & Crypto) with near real-time, broker-standard PnL analytics.
 * **Tech:** ASP.NET Core, React, Azure SQL, Azure Blob Storage, Render, Vercel.
@@ -50,7 +50,7 @@ A full-stack, distributed wealth management platform enabling users to monitor c
 
 #### 🤖 Smart Library System (AI-powered)
 An intelligent library management platform modernizing borrowing workflows with an integrated AI Agent for natural language search and recommendations.
-* **Tech:** ASP.NET Core, Database Management, AI Integration.
+* **Tech:** ASP.NET Core REST API, PostgreSQL, Pinecone Vector DB, n8n, Google Gemini.
 
 ---
 
